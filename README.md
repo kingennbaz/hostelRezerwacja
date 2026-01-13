@@ -1,2 +1,2 @@
 # hostelRezerwacja
-projekt OOP Java, uczestnicy: Jan Wirkus
+projekt OOP Java, uczestnicy: Jan Wirkus, Hubert Wittbrodt
