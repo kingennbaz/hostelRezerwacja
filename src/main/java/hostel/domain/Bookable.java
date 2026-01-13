@@ -1,0 +1,10 @@
+package main.java.hostel.domain;
+
+public interface Bookable {
+
+    void book();
+
+    void cancel();
+
+    boolean isAvailable();
+}
